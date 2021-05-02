@@ -1,5 +1,4 @@
 # Process-Synchronization
 
-- FIT VUT
-- IOS - projekt 2
-May 2021
+- FIT VUT - IOS project 2
+- May 2021
