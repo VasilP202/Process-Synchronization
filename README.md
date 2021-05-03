@@ -1,4 +1,5 @@
 # Process Synchronization
 
-- FIT VUT - IOS project 2
+FIT VUT Operační systémy-Projekt 2
+
 - May 2021
